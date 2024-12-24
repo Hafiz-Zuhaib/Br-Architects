@@ -1,0 +1,31 @@
+#logo{
+    letter-spacing: 5px;
+}
+
+#hero #bg-hero{
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#bg-word{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#about img{
+    filter: grayscale(0.7);
+}
+
+#atl{
+    background-color: #1d3557;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    word-spacing: 4px;
+}
+
+#atl:hover{
+    background-color: white;
+    color: #1d3557;
+    transition: all 0.3s;
+}
